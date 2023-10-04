@@ -33,6 +33,7 @@ __Discount__ *~~3000~~*
 
 ### Code Hightlight
 1. `echo "hello world"; //inline`
+
 2. ```php
    $x = 2;
    $y = 4;
